@@ -52,6 +52,8 @@ The complete, pre-configured **AegisVault production software bundle** is distri
 4. **Lifetime Updates & Enterprise Standards**: No recurring SaaS seat fees, no vendor lock-in, and zero per-user billing.
 
 👉 **[Download the Complete AegisVault Enterprise Engine](https://theworkflowatelier.gumroad.com/l/aegisvault-enterprise)**
+OR Visit 
+👉 **[The Workflow Atelier for browsing other assets](https://theworkflowatelier.com)**
 
 ---
 *For enterprise custom deployments, custom integrations, or security reviews, contact our technical team via Gumroad.*
