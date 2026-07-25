@@ -38,7 +38,7 @@ The engine operates across 5 isolated asynchronous processing zones:
 
 ## 🔒 Data Security & Privacy Standards
 AegisVault is built for zero-data-retention compliance. All processing occurs within your self-hosted or cloud-isolated n8n workspace. 
-* Review our formal **[Data Security Addendum (DSA)](./Docs/Data_Security_Addendum.pdf)** for complete technical specifications regarding AES-256 encryption at rest, TLS 1.3 transit security, and scoped OAuth 2.0 access governance.
+* Review our formal **[Data Security Addendum (DSA)](./Docs/Data_Security_Addendum.md)** for complete technical specifications regarding AES-256 encryption at rest, TLS 1.3 transit security, and scoped OAuth 2.0 access governance.
 
 ---
 
