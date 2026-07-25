@@ -39,7 +39,7 @@ The engine operates across 5 isolated asynchronous processing zones:
 ## 🔒 Data Security & Privacy Standards
 AegisVault is built for zero-data-retention compliance. All processing occurs within your self-hosted or cloud-isolated n8n workspace. 
 * Review our formal **[Data Security Addendum (DSA)](./Docs/Data_Security_Addendum.md)** for complete technical specifications regarding AES-256 encryption at rest, TLS 1.3 transit security, and scoped OAuth 2.0 access governance.
-
+* **Immutable Evidence Versioning & Audit Ledger:** Go beyond just answering spreadsheets. The Enterprise Engine automatically maps cryptographic proof to every single row, logging the `source_doc_sha256` file hash, AI `model_version`, exact `quoted_span` verbatim text, timestamp, and human `reviewer_override` flags. When external auditors ask why an answer changed between Q3 and Q4, you have an immutable, exportable evidence trail ready for SOC 2 Type II sampling.
 ---
 
 ## 🚀 Get the Production Automation Engine
